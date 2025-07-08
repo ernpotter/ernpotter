@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Erin 👋
 
-<!--
-**ernpotter/ernpotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineering Consultant at The Information Lab, specializing in building robust and scalable data solutions. My focus is on helping organizations transform their data into a strategic asset.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let's Connect!
+
+* [LinkedIn](https://www.linkedin.com/in/erinkpotter)
+* [Tableau Public](https://public.tableau.com/app/profile/erin.potter/vizzes)
+
+---
+
+### 🌟 Awards & Recognitions
+* Tableau Certified Data Analyst, 2023
+* Alteryx Designer Core, 2023
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ernpotter&show_icons=true&theme=default)
+
+---
+
+
